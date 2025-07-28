@@ -1,7 +1,7 @@
 # Capstone_Project
 Drug Sensitivity in Lung Adenocarcinoma Using Machine Learning 
 
-[cite_start]This project focuses on predicting drug sensitivity in Lung Adenocarcinoma (LUAD) cell lines using machine learning models[cite: 1].
+This project focuses on predicting drug sensitivity in Lung Adenocarcinoma (LUAD) cell lines using machine learning models
 
 **Key Aspects:**
 * [cite_start]**Objective:** To predict the sensitivity of LUAD cancer cell lines to drugs using genetic data[cite: 1]. [cite_start]The study explores both regression models (predicting half-maximal inhibitory concentration, IC50 values) and classification models (categorizing samples as sensitive or resistant)[cite: 1]. [cite_start]It also investigates the impact of incorporating somatic mutation data on predictive performance and interpretability[cite: 1].
