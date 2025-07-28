@@ -1,4 +1,4 @@
-# Capstone_Project
+# Capstone Project May 2025
 Drug Sensitivity in Lung Adenocarcinoma Using Machine Learning 
 
 This project focuses on predicting drug sensitivity in Lung Adenocarcinoma (LUAD) cell lines using machine learning models
